@@ -1,0 +1,87 @@
+a<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="NPS Logistik - Layanan logistik terpercaya untuk pengiriman barang di seluruh Indonesia.">
+  <meta name="keywords" content="logistik, jasa kirim barang, nps logistik, ekspedisi, pengiriman cepat">
+  <meta name="author" content="NPS Logistik">
+  <title>NPS Logistik | Jasa Pengiriman Terpercaya</title>
+  <link rel="stylesheet" href="style.css" />
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f7f7f7;
+    }
+    header {
+      background-color: #003366;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    nav {
+      background-color: #005599;
+      text-align: center;
+      padding: 10px;
+    }
+    nav a {
+      color: #fff;
+      text-decoration: none;
+      margin: 0 15px;
+    }
+    section {
+      padding: 20px;
+      max-width: 1000px;
+      margin: auto;
+      background: #fff;
+    }
+    footer {
+      background-color: #003366;
+      color: #fff;
+      text-align: center;
+      padding: 15px;
+      margin-top: 30px;
+    }
+    .cta {
+      background: #005599;
+      color: #fff;
+      padding: 15px;
+      text-align: center;
+      margin: 20px 0;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>NPS Logistik</h1>
+  <p>Solusi Logistik Terpercaya di Indonesia</p>
+</header>
+
+<nav>
+  <a href="#layanan">Layanan</a>
+  <a href="#tentang">Tentang Kami</a>
+  <a href="#kontak">Hubungi Kami</a>
+</nav>
+
+<section id="tentang">
+  <h2>Tentang NPS Logistik</h2>
+  <p>NPS Logistik adalah penyedia layanan pengiriman barang yang siap melayani seluruh wilayah Indonesia dengan cepat, aman, dan profesional.</p>
+</section>
+
+<section id="layanan">
+  <h2>Layanan Kami</h2>
+  <ul>
+    <li>Pengiriman Barang Domestik (Darat, Laut, Udara)</li>
+    <li>Distribusi Barang Grosir</li>
+    <li>Same Day & Next Day Delivery</li>
+    <li>Tracking Real-Time</li>
+  </ul>
+</section>
+
+<section id="kontak">
+  <h2>Hubungi Kami</h2>
+  <p>📱 WhatsApp: <a href="https://wa.me/6281399253888">0813-9925-3888</a></p>
+  <p>📍
